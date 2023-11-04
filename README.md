@@ -8,7 +8,7 @@ This package adds a new `php artisan make:service {name} {--N|noInterface}` comm
 You can install the package via composer:
 
 ```bash
-composer require nordcoders/laravel-add-service --dev
+composer require diouma/laravel-add-service --dev
 ```
 
 ## How does it work?
